@@ -9,11 +9,12 @@ VERDICT-AMICO is an adaptation of the accelerated microstructure imaging via con
 
 # AMICO
  The original work developed by `Daducci et al.`. and the implementation of the linear framework for Accelerated Microstructure Imaging via Convex Optimization (AMICO) can be found here:
-    ```
+   ```
 Accelerated Microstructure Imaging via Convex Optimization (AMICO) from diffusion MRI data
 Alessandro Daducci, Erick Canales-Rodriguez, Hui Zhang, Tim Dyrby, Daniel Alexander, Jean-Philippe Thiran
 NeuroImage 105, pp. 32-44 (2015)
-    ```
+ ```
+ 
 # Matlab Installation
 Adapted from the orignal AMICO README file:
 
