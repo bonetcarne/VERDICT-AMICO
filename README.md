@@ -57,11 +57,14 @@ Modify the content of  `launch_VERDICT_AMICOoriginal.m` to set the paths to your
 
 # Getting started
 
-You can use the data on the example_data folder to try that everything works fine. Just uncomment from `launch_VERDICT_AMICOoriginal.m`  the following:
+You can use the data on the example_data folder to try that everything works fine. Just:
+
+1. Uncomment from `launch_VERDICT_AMICOoriginal.m` the following:
     ```
         data_path_input='./example_data/';
         data_path_output='./example_data/output/';
         subject_name='test1';
         dwiFilename='VerdictVolume_Registered_test1.nii';
     ```
-and run the code.
+2. Unzip 'VerdictVolume_Registered_test1.nii.zip'
+3. and run the code.
